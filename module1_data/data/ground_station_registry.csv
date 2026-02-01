@@ -1,0 +1,5 @@
+station_id,station_name,location,status,authorization_level,network,capabilities,last_certification,notes
+GS-ALPHA-1,Ground Station ALPHA,"Thule, Greenland",ACTIVE,FULL,AFSCN,"TT&C, IMAGING_TASKING, DATA_DOWNLINK",2025-06-15,Certified for SENTINEL-9 operations
+GS-BRAVO-2,Ground Station BRAVO,"Fairbanks, Alaska",ACTIVE,FULL,AFSCN,"TT&C, IMAGING_TASKING, DATA_DOWNLINK",2025-06-15,Certified for SENTINEL-9 operations
+GS-CHARLIE-3,Ground Station CHARLIE,"Svalbard, Norway",ACTIVE,FULL,AFSCN,"TT&C, IMAGING_TASKING, DATA_DOWNLINK",2025-06-15,Certified for SENTINEL-9 operations
+GS-DELTA-4,Ground Station DELTA,"McMurdo, Antarctica",ACTIVE,FULL,AFSCN,"TT&C, IMAGING_TASKING, DATA_DOWNLINK",2025-06-15,Certified for SENTINEL-9 operations

@@ -1,0 +1,31 @@
+block,field_name,description,required,example
+1,DOCUMENT_IDENTIFIER,"Document identifier code (e.g., A0A for requisition)",YES,A0A
+2,ROUTING_IDENTIFIER,Routing identifier code for destination,YES,S9C
+3,MEDIA_STATUS,Media and status code,YES,A
+4,STOCK_NUMBER,National Stock Number (NSN) - 13 characters,YES,8415-01-545-8556
+5,UNIT_OF_ISSUE,"Unit of issue code (EA, CS, DR, etc.)",YES,EA
+6,QUANTITY,Quantity requested (5 digits),YES,00050
+7,DOCUMENT_NUMBER,14-character document number (DODAAC + Julian date + serial),YES,W81K2F6029001
+8,DEMAND_CODE,"Demand code (R=recurring, N=non-recurring)",YES,R
+9,SUPPLEMENTARY_ADDRESS,Ship-to DODAAC if different from requisitioner,NO,W81K2F
+10,SIGNAL_CODE,Signal code for shipment routing,YES,A
+11,FUND_CODE,Fund code for accounting,YES,A3
+12,DISTRIBUTION_CODE,Distribution code,NO,1
+13,PROJECT_CODE,Project code if applicable,NO,ARC
+14,PRIORITY,Priority designator (01-15),YES,03
+15,REQUIRED_DELIVERY_DATE,Required delivery date (Julian or days),NO,032
+16,ADVICE_CODE,Advice code for special instructions,NO,2B
+17,UNIT_PRICE,Unit price in dollars and cents,YES,485.00
+18,ITEM_DESCRIPTION,Item nomenclature/description,YES,"PARKA, EXTREME COLD WEATHER"
+19,CONSIGNEE_ADDRESS,"Ship-to address (name, unit, location)",YES,"FOB POLAR SENTINEL, Unit 4520"
+20,CONSIGNEE_CITY_STATE_ZIP,"City, state, ZIP of consignee",YES,"Deadhorse, AK 99734"
+21,MARK_FOR,Mark for information,NO,SUPPLY SECTION
+22,SPECIAL_HANDLING,Special handling instructions,NO,PROTECT FROM FREEZING
+23,WEIGHT_LBS,Total weight in pounds,NO,210
+24,CUBE_FT,Total cubic feet,NO,40
+25,REQUISITIONER_NAME,Name of requisitioner/POC,YES,MAJ David Chen
+26,REQUISITIONER_PHONE,Phone/DSN of requisitioner,YES,DSN 317-555-4520
+27,DATE_PREPARED,Date requisition prepared,YES,2026-01-29
+28,EXTENDED_PRICE,Quantity x Unit Price,YES,24250.00
+29,CONTRACT_NUMBER,Applicable contract number,NO,W91CRB-25-D-0042
+30,CONDITION_CODE,Condition code (A=serviceable),YES,A

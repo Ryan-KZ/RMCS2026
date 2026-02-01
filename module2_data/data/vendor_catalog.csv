@@ -1,0 +1,6 @@
+vendor_id,vendor_name,cage_code,address,contact_name,phone,email,contract_number,lead_time_days,shipping_method,reliability_rating,specialties
+V-001,Arctic Defense Solutions LLC,3ABC7,"1200 Industrial Way, Anchorage, AK 99501",Mike Thompson,907-555-1234,orders@arcticdefense.com,W91CRB-25-D-0042,5,AIR_FREIGHT,98.5,"CLOTHING,FOOTWEAR,SHELTER"
+V-002,Northern Logistics Inc,7XYZ2,"500 Supply Drive, Fairbanks, AK 99701",Sarah Williams,907-555-5678,military@northernlogistics.com,W91CRB-25-D-0087,3,GROUND_CONVOY,96.2,"FUEL,EQUIPMENT,VEHICLES"
+V-003,Polar Equipment Corporation,9KLM4,"800 Arctic Blvd, Juneau, AK 99801",Robert Chen,907-555-9012,govcontracts@polarequip.com,W91CRB-25-D-0156,7,AIR_FREIGHT,99.1,"POWER,HEATING,COMMUNICATIONS"
+V-004,DLA Troop Support,S3101,"700 Robbins Ave, Philadelphia, PA 19111",DLA Customer Service,215-737-2000,subsistence@dla.mil,SPE300-25-D-0001,10,AIR_FREIGHT,97.8,"SUBSISTENCE,MEDICAL"
+V-005,Cold Region Tactical Supply,5QRS8,"2100 Tundra Road, Nome, AK 99762",Jennifer Park,907-555-3456,orders@coldregiontactical.com,W91CRB-25-D-0203,4,AIR_DROP,94.5,"MAINTENANCE,COMMUNICATIONS"

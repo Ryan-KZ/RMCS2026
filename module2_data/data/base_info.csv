@@ -1,0 +1,16 @@
+field,value
+base_name,FOB POLAR SENTINEL
+base_code,AKPS01
+dodaac,W81K2F
+address_line1,Forward Operating Base POLAR SENTINEL
+address_line2,"Unit 4520, Box 150"
+city,Deadhorse
+state,AK
+zip,99734
+country,USA
+grid_coordinates,"70.2002°N, 148.4597°W"
+commanding_officer,COL Sarah Mitchell
+supply_officer,MAJ David Chen
+supply_phone,DSN 317-555-4520
+personnel_count,250
+operational_status,ACTIVE
