@@ -15,6 +15,8 @@ Build a RAG pipeline to analyze acquisition documents, extract vendor specificat
 
 ## Getting Started
 
+**Environment:** https://alpha.kamiwaza.com
+
 1. Download `Modules.zip`
 2. Unzip the archive
 3. We'll walk through the details together
